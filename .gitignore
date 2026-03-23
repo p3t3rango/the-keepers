@@ -1,4 +1,5 @@
 sacred_texts/
+sacred_texts_downloader.py
 *.txt
 *.gz
 *.zip
