@@ -1,0 +1,5 @@
+sacred_texts/
+*.txt
+*.gz
+*.zip
+.claude/
