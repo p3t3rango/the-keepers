@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   description:
     "In a world where everything can be remembered, we remain to decide what is worth becoming.",
   icons: {
-    icon: "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#x1F56F;</text></svg>",
+    icon: "/logo-24.png",
   },
 };
 
