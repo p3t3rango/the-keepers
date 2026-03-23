@@ -28,6 +28,19 @@ export const metadata: Metadata = {
   icons: {
     icon: "/logo-24.png",
   },
+  openGraph: {
+    title: "The Keepers",
+    description:
+      "In a world where everything can be remembered, we remain to decide what is worth becoming.",
+    images: [{ url: "/logo-2048.png", width: 2048, height: 2048 }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "The Keepers",
+    description:
+      "In a world where everything can be remembered, we remain to decide what is worth becoming.",
+    images: ["/logo-2048.png"],
+  },
 };
 
 export default function RootLayout({
